@@ -62,8 +62,8 @@ Make sure you have Node.js (version 18 or above) and npm installed.
 
 ### 1. Clone & Enter Project Directory
 ```bash
-git clone <repository-url>
-cd niua
+git clone https://github.com/Abhinashroy/Property-Tax-Analytics.git
+cd Property-Tax-Analytics
 ```
 
 ### 2. Install Dependencies
